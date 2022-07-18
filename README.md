@@ -18,4 +18,5 @@ The goal of this project is to identify the factors that influence residents' li
 
 Through the data mining on life satisfaction, a relatively accurate classifier can be constructed, and the project aims to give timely feedback to the government and related organizations to improve the life satisfaction of the country's residents.
 
-Detail can be senn in [report](./report.pdf).
+
+**Detail can be senn in [report](./report.pdf).**
