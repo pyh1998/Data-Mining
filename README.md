@@ -17,3 +17,5 @@ The project primarily employs R and Rattle for model development and evaluation,
 The goal of this project is to identify the factors that influence residents' life satisfaction and to develop a useful model to classify and forecast resident satisfaction. In addition, by linearizing the satisfaction of the residents, the discrete attributes are continuous and the specific values of satisfaction are predicted by linear regression, which may not be accurate but can get a specific trend of satisfaction instead of a simple classification.
 
 Through the data mining on life satisfaction, a relatively accurate classifier can be constructed, and the project aims to give timely feedback to the government and related organizations to improve the life satisfaction of the country's residents.
+
+Detail can be senn in [report](./report.pdf).
